@@ -39,7 +39,7 @@ const HeroSection = () => {
           delay: 0.2,
           duration: 0.5
         }}>
-            <img alt="CodeCraft Logo" className="h-32 md:h-40 animate-float" src="/lovable-uploads/133d722d-3220-4a11-9b7e-1b6ca2ef18a0.png" />
+            
           </motion.div>
           
           <motion.h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 text-gradient" initial={{
