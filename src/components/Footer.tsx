@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import { Linkedin, Instagram, Mail, Send } from 'lucide-react';
+
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   const socialLinks = [{
@@ -64,7 +65,7 @@ const Footer = () => {
           
           <div>
             <h3 className="text-white font-semibold mb-6">Join Us</h3>
-            <a href="https://forms.gle/tuJTc2rzK8jA14U4A" target="_blank" rel="noopener noreferrer" className="inline-block bg-codecraft-orange hover:bg-orange-600 text-white font-medium px-5 py-2 rounded-md transition-colors mb-4">
+            <a href="https://forms.gle/zqM3V7zuLgxH2D656" target="_blank" rel="noopener noreferrer" className="inline-block bg-codecraft-orange hover:bg-orange-600 text-white font-medium px-5 py-2 rounded-md transition-colors mb-4">
               Join the Community
             </a>
             <p className="text-white/70 mt-4 italic">

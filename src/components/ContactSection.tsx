@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Linkedin, Instagram, Send, AlertCircle } from 'lucide-react';
+
 const ContactSection = () => {
   const contactLinks = [{
     icon: <Mail className="h-5 w-5" />,
@@ -78,7 +79,7 @@ const ContactSection = () => {
               </ul>
 
               <div className="mt-8">
-                <a href="https://forms.gle/tuJTc2rzK8jA14U4A" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-codecraft-orange hover:bg-orange-600 text-white font-semibold px-6 py-3 rounded-md transition-all w-full justify-center">
+                <a href="https://forms.gle/zqM3V7zuLgxH2D656" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-codecraft-orange hover:bg-orange-600 text-white font-semibold px-6 py-3 rounded-md transition-all w-full justify-center">
                   <span>Join via Google Form</span>
                 </a>
               </div>

@@ -1,5 +1,7 @@
+
 import React from 'react';
 import { motion } from 'framer-motion';
+
 const HeroSection = () => {
   return <section id="hero" className="relative min-h-screen flex items-center justify-center pt-16 overflow-hidden">
       <div className="absolute inset-0 z-0">
@@ -74,7 +76,7 @@ const HeroSection = () => {
           delay: 0.7,
           duration: 0.8
         }}>
-            <a href="https://forms.gle/tuJTc2rzK8jA14U4A" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-codecraft-orange hover:bg-orange-600 text-white font-semibold px-8 py-3 rounded-md transition-all shadow-lg hover:shadow-codecraft-orange/20 text-lg">
+            <a href="https://forms.gle/zqM3V7zuLgxH2D656" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-codecraft-orange hover:bg-orange-600 text-white font-semibold px-8 py-3 rounded-md transition-all shadow-lg hover:shadow-codecraft-orange/20 text-lg">
               Join the Community
             </a>
           </motion.div>
