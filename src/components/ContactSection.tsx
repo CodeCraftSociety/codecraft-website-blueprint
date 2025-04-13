@@ -102,16 +102,12 @@ const ContactSection = () => {
               <div className="mb-8 p-4 border border-white/10 rounded-lg bg-white/5">
                 <div className="flex items-start">
                   <AlertCircle className="h-5 w-5 text-codecraft-orange mr-3 mt-0.5 flex-shrink-0" />
-                  <p className="text-white/90">UI/UX Design Masterclass  
-**🎙️ Guest Speaker:** Miss Lilian Nyakio (Kenya)  
-💼 UI/UX &amp; Visual Storytelling Expert  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/liliannyakio/)  
+                  <p className="text-white/90">UI/UX Design Masterclass 🎙️ Guest Speaker: Miss Lilian Nyakio (Kenya) 💼 UI/UX &amp; Visual Storytelling Expert.
+ 
+📅 Date: Wednesday, 16th April 2025 
+🕥 Time: 10:30 PM IST 
 
-📅 **Date:** Wednesday, 17th April 2025  
-🕥 **Time:** 10:30 PM IST  
-
-A golden opportunity for aspiring designers and creatives!  
-**Save the date – full details coming soon.** ✨</p>
+A golden opportunity for aspiring designers and creatives! Save the date – full details coming soon. ✨</p>
                 </div>
               </div>
               
